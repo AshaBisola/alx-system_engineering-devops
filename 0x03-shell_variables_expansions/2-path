@@ -1,2 +1,2 @@
 #!/bin/bash
-a
+PATH=$PATH:/action '\n'

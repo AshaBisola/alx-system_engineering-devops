@@ -1,2 +1,2 @@
 #!/bin/bash
-aa
+echo $PATH | tr ':" | wc-l
